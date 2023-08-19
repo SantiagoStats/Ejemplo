@@ -5,8 +5,11 @@
 ## Introducción a Gráficos Básicos en R
 
 ################################
-####### SETEO DE CARPETA #######
+####### SETEO DE CARPETA holaaaaaaaaaaaaaaa#######
 ################################
+
+
+##drgffd
 
 getwd()
 
